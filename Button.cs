@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace Infraestrutura.Componentes
 {
-    public partial class ButtonPartner : Button
+    public partial class Button : Button
     {
         public ButtonPartner()
         {
